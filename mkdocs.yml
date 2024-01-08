@@ -1,0 +1,18 @@
+site_name: Markdown to HTML
+site_url: https://liang2kl.github.io/markdown-render/
+repo_url: https://github.com/liang2kl/markdown-render/
+
+theme:
+  name: material
+  language: en
+  palette: 
+    scheme: slate
+    primary: black
+    accent: indigo
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins: []
