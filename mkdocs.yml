@@ -1,6 +1,7 @@
 site_name: Markdown to HTML
 site_url: https://liang2kl.github.io/markdown-render/
 repo_url: https://github.com/liang2kl/markdown-render/
+repo_name: liang2kl/markdown-render
 
 theme:
   name: material
